@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "maze-pathfinding",
+      "title": "Maze Pathfinding",
+      "description": "Use BFS and DFS to find and compare routes through a grid-based maze.",
+      "path": "assignments/maze-pathfinding",
+      "dueDate": "2026-10-06"
     }
   ]
 }
